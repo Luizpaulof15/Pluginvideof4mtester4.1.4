@@ -1,2 +1,2 @@
 #plugin.video.f4mtester
-f4mtester-kodi 19+
+f4mtester- kodi 19+
